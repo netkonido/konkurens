@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Git.iml" filepath="$PROJECT_DIR$/Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak2/gyak2.iml" filepath="$PROJECT_DIR$/gyak2/gyak2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak4/gyak4.iml" filepath="$PROJECT_DIR$/gyak4/gyak4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak5/gyak5.iml" filepath="$PROJECT_DIR$/gyak5/gyak5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak6/gyak6.iml" filepath="$PROJECT_DIR$/gyak6/gyak6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak7/gyak7.iml" filepath="$PROJECT_DIR$/gyak7/gyak7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak2/gyak4/gyak8.iml" filepath="$PROJECT_DIR$/gyak2/gyak4/gyak8.iml" />
+    </modules>
+  </component>
+</project>
